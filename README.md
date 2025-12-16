@@ -1,4 +1,5 @@
 Instructions
+
 1️⃣Clone the Repository
 git clone https://github.com/leparan-felix/zemi-escrow-mvp.git
 
@@ -88,9 +89,3 @@ Error handling ensures:
 - Buyer–Seller dispute resolution flow
 - Increases trust and reduces abuse
 
----
-
-## Author
-- Name: Felix Leparan
-- Shared with: CreatorOfGods
-- Project: Zemi Escrow MVP
