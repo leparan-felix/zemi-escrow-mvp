@@ -1,6 +1,7 @@
 Instructions
 1️⃣Clone the Repository
 git clone https://github.com/leparan-felix/zemi-escrow-mvp.git
+
 cd zemi-escrow-mvp
 
 2️⃣ Create & Activate Virtual Environment
